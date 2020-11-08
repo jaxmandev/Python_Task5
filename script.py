@@ -42,7 +42,7 @@ class Nucleobase:
                     continue
             return t_count
 
-# test data
+# test data for functions verification
 dna_test = "AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"
 
 # create an object or instance of the Nucleobase class
